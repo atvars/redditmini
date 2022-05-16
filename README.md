@@ -1,6 +1,6 @@
 # Reddit Portfolio App - Codecademy Project
 
-> A project suggested from Codecademy Full-Stack Engineer course! The Front End development portfolio project app using Reddit API and react.
+The Front End development portfolio project app using Reddit API and react and redux.
 
 ## Table of contents
 
@@ -13,11 +13,8 @@
 
 ## General info
 
-> Simple application that uses Reddit's API and displays their posts by subreddits.
+> Simple application that communicates with Reddit's API and displays their posts by subreddits.
 
-## Commentary
-
-> I used as many best practices as I could. Also, when I developed this I tried to use slightly different styles in each place just to gain experience with different kinds of styles.
 
 ## Technologies
 
@@ -44,7 +41,3 @@ The script can be run in a node.js environment.
 - Pulls Subreddits from Reddit
 - Displays Subreddit Posts
 - Pulls and adds Comments for a Posts
-
-## Status
-
-Project is finished
